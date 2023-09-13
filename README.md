@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johanjeson
+- 👋 Hi, I’m @johanjeson - IT student @KSU
 - 👀 I’m interested in technical product management & digital security
 - 🌱 I’m currently learning about Identity & Access Management (IAM)
 - 📫 How to reach me: @JohanJeson on LinkedIn
